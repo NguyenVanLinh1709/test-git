@@ -1,0 +1,3 @@
+const sayBye = () => {
+  "good bye";
+};
